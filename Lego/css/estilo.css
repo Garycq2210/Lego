@@ -1,0 +1,43 @@
+h1
+{
+    color: darkgreen;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    border: 10px;
+    border-style: double;
+    background-color: rgb(255, 251, 0);
+    
+}
+p
+{
+color: royalblue;
+text-align: justify ;
+font-size: 20px;
+border: 5px;
+border-radius: 10px;
+border-style: solid;
+background-color: white;
+}
+
+img
+{
+    width: 60%;
+    margin-left: 20%;
+    margin-right:20% ;
+}
+body
+{
+    background-color: rgb(255, 189, 89);    
+}
+*
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 3%;    
+   
+}
+.img
+{
+    background-image: url(/imagenes/descarga.jpg);
+    background-size: cover;
+}
